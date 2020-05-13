@@ -46,9 +46,6 @@ Check training progress:
 ```bash
 tensorboard --logdir=tf_log
 ```
-
-<img src="misc/tfboard.png" width="400px">
-
 #### Training Options
 You can change training parameters including model architecture using additional arguments like this:
 
